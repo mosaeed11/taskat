@@ -32,7 +32,7 @@ Dart	Programming Language
 
 ⚙️ Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/your-username/taskat.git
+git clone https://github.com/mosaeed11/taskat.git
 cd taskat
 
 2️⃣ Install dependencies
